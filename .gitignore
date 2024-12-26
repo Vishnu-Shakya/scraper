@@ -1,0 +1,32 @@
+# Node.js dependencies
+# Environment variables
+node_modules/
+.env
+
+# Build output
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Miscellaneous
+*.tgz
+*.zip
+*.tar
+*.gz
+*.rar
